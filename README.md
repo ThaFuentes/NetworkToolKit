@@ -14,7 +14,7 @@ The FVS Network Tools Suite includes the following features:
 
 ## Prerequisites
 
-- Python (version X.X.X)
+- Python (version 3.11)
 - [PyWiFi](https://pypi.org/project/PyWiFi/) library for Wi-Fi management.
 - [Nmap](https://nmap.org/) for network scanning and analysis.
 
